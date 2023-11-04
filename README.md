@@ -47,7 +47,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 ```
-name: Sabreena Vincent
+name: Shabreena Vincent
 register no: 212222230141
 ```
 # Program :
@@ -78,7 +78,8 @@ print("The Standard deviation of arrival from feeder is %.3F "%SD)
 
 # Output : 
 
-![output](https://user-images.githubusercontent.com/93427345/230038209-5d0cacb5-263f-49d3-b535-89554f2b83c7.png)
+
+![Screenshot 2023-11-04 104130](https://github.com/shabreenavincent/Mean-and-Variance/assets/119475721/65cc33d5-9cc5-41cf-829d-0956eb6a7a7e)
 
 
 # Results :
